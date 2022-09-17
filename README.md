@@ -17,4 +17,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 <br>
 
 ## 📌 Layout
-Você pode visualizar e acessar a página pronta [clicando aqui](https://nayaraoliveira1.github.io/nlw-esports-explorer).
+Você pode visualizar e acessar a página pronta [clicando aqui](https://nayaraoliveira1.github.io/nlw-esports-explorer) "_blank".
